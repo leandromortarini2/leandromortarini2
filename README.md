@@ -24,7 +24,7 @@ El Bootcamp de Henry me permitio adquirir el conocimiento y experiencia en proye
 - Css
 - Tailwind
 - MongoDB
-Tambien tengo conocimientos adquiridos por mi diplomatura realizada en la UTN de Resistencia Chaco:
+## Tambien tengo conocimientos adquiridos por mi diplomatura realizada en la UTN de Resistencia Chaco:
 - Php
 - MySQL
 
