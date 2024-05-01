@@ -7,10 +7,10 @@
 - 👯 Busco colaborar en Proyectos con nuevas tecnologias 
 
 - 📫 Pueden contactarme por mis redes sociales:
-Linkedin: https://www.linkedin.com/in/leandro-mortarini/
-Facebook: https://web.facebook.com/leandro.mortarini.5
-Instagram: https://www.instagram.com/mortajunior/
-E-Mail: leandromortarini2@gmail.com
+- Linkedin: https://www.linkedin.com/in/leandro-mortarini/
+- Facebook: https://web.facebook.com/leandro.mortarini.5
+- Instagram: https://www.instagram.com/mortajunior/
+- E-Mail: leandromortarini2@gmail.com
 
 
 <!--
