@@ -22,7 +22,7 @@ El Bootcamp de Henry me permitio adquirir el conocimiento y experiencia en proye
 - PostgreSQL
 - Tailwind
 - MongoDB
-Tambien incluyendo HTML y CSS
+##### Tambien incluyendo HTML y CSS
 entre otras herramientas, tambien tengo conocimiento en PHP y MySQL. Estos ultimos los adquiri realizando una diplomatura en la UTN de Resistencia Chaco.
 
 
