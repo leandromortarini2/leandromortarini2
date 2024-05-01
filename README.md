@@ -8,8 +8,9 @@ Con un firme compromiso, habilidades de trabajo en equipo y una
 determinación inquebrantable, garantizo resultados que superan las expectativas del cliente.
 
 
-# 🌱 Actualmente estoy realizando proyectos que me permiten avanzar en mi formacion como developer. Me encanta desarrollar webs en grupo!
- ✨ y siempre busco colaborar en Proyectos con nuevas tecnologias 
+# Que hago?
+✨ Actualmente estoy realizando proyectos que me permiten avanzar en mi formacion como developer. Me encanta desarrollar webs en grupo!
+  y siempre busco colaborar en Proyectos con nuevas tecnologias 
 
 # 📫 Pueden contactarme por mis redes sociales:
 - Linkedin: https://www.linkedin.com/in/leandro-mortarini/
