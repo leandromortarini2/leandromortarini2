@@ -7,10 +7,29 @@ optimizadas.
 Con un firme compromiso, habilidades de trabajo en equipo y una
 determinación inquebrantable, garantizo resultados que superan las expectativas del cliente.
 
-
 # Que hago?
 ✨ Actualmente estoy realizando proyectos que me permiten avanzar en mi formacion como developer. Me encanta desarrollar webs en grupo!
   y siempre busco colaborar en Proyectos con nuevas tecnologias 
+
+# Que tecnologias uso?
+El Bootcamp de Henry me permitio adquirir el conocimiento y experiencia en proyectos con diversas tecnologias como:
+- React
+- Next Js
+- Javascript
+- TypeScript
+- Node Js
+- Express
+- PostgreSQL
+- HTML
+- Css
+- Tailwind
+- MongoDB
+Tambien tengo conocimientos adquiridos por mi diplomatura realizada en la UTN de Resistencia Chaco:
+- Php
+- MySQL
+
+
+
 
 # 📫 Pueden contactarme por mis redes sociales:
 - Linkedin: https://www.linkedin.com/in/leandro-mortarini/
