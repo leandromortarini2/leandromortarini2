@@ -20,13 +20,10 @@ El Bootcamp de Henry me permitio adquirir el conocimiento y experiencia en proye
 - Node Js
 - Express
 - PostgreSQL
-- HTML
-- Css
 - Tailwind
 - MongoDB
-## Tambien tengo conocimientos adquiridos por mi diplomatura realizada en la UTN de Resistencia Chaco:
-- Php
-- MySQL
+Tambien incluyendo HTML y CSS
+entre otras herramientas, tambien tengo conocimiento en PHP y MySQL. Estos ultimos los adquiri realizando una diplomatura en la UTN de Resistencia Chaco.
 
 
 
@@ -36,6 +33,8 @@ El Bootcamp de Henry me permitio adquirir el conocimiento y experiencia en proye
 - Facebook: https://web.facebook.com/leandro.mortarini.5
 - Instagram: https://www.instagram.com/mortajunior/
 - E-Mail: leandromortarini2@gmail.com
+
+
 
 
 <!--
