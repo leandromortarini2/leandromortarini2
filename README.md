@@ -11,7 +11,7 @@ Con un firme compromiso, habilidades de trabajo en equipo y una
 determinación inquebrantable, garantizo resultados que superan las expectativas del cliente.
 
 # Que hago?
-✨ Actualmente estoy realizando proyectos que me permiten avanzar en mi formacion como developer. Me encanta desarrollar webs en grupo!
+✨ Actualmente estoy realizando proyectos Freelancer y adquiriendo experiencia en la empresa Inflatrack que me permite avanzar en mi formacion como developer. Me encanta desarrollar webs en grupo!
   y siempre busco colaborar en Proyectos con nuevas tecnologias 
 
 # Que tecnologias uso?
