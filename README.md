@@ -31,6 +31,7 @@ entre otras herramientas, tambien tengo conocimiento en PHP y MySQL. Estos ultim
 
 
 # 📫 Pueden contactarme por mis redes sociales:
+- Portfolio: https://developer-mortarini.vercel.app/
 - Linkedin: https://www.linkedin.com/in/leandro-mortarini/
 - Facebook: https://web.facebook.com/leandro.mortarini.5
 - Instagram: https://www.instagram.com/mortajunior/
