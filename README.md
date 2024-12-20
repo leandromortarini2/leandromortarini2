@@ -11,8 +11,9 @@ Me destaco por mi autonomía y capacidad para adaptarme a diferentes proyectos, 
 🎯 Actualmente, colaboro en el desarrollo de software de gestión de comercio con React, Javascript, Styled Components y Material UI en Inflatrack bajo un contrato de prácticas, donde aplico mis habilidades en un entorno empresarial dinámico. También estoy realizando prácticas en la empresa INNEVO, donde trabajo con tecnologías como Angular, Angular Material y SCSS.
 
 # Que tecnologias uso?
-El Bootcamp de Henry me permitio adquirir el conocimiento y experiencia en proyectos con diversas tecnologias como:
+
 - React
+- Angular
 - Next Js
 - Javascript
 - TypeScript
