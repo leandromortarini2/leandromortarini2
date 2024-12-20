@@ -4,14 +4,11 @@
 https://mortacode.vercel.app/
 
 # A que me dedico?
-Soy desarrollador Full Stack con especializacion en Front-end y creacion de material visual.
-Mi enfoque se centra en crear aplicaciones web modernas y altamente funcionales, ofreciendo soluciones integrales y
-optimizadas. 
-Con un firme compromiso, habilidades de trabajo en equipo y una
-determinación inquebrantable, garantizo resultados que superan las expectativas del cliente.
+🚀 Soy desarrollador Frontend trabajo principalmente con tecnologías como JavaScript, TypeScript, React y Angular, siempre buscando mejorar la experiencia del usuario con soluciones prácticas y bien pensadas. 
+Me destaco por mi autonomía y capacidad para adaptarme a diferentes proyectos, avanzando con eficacia mientras mantengo un enfoque en los detalles. Además, disfruto colaborar en equipo, porque creo que los mejores resultados vienen del esfuerzo conjunto y de cuidar cada aspecto del proceso de desarrollo. 💻✨
 
 # Que hago?
-✨ Actualmente, estoy colaborando con la empresa Inflatrack en el desarrollo de un software de gestión de comercio, lo que me ha permitido aplicar y expandir mis habilidades en un entorno empresarial real. Además, realizo desarrollos de aplicaciones web de manera freelance para clientes reales, lo que reafirma mi capacidad para entregar resultados de alta calidad.
+🎯 Actualmente, colaboro en el desarrollo de software de gestión de comercio con React, Javascript, Styled Components y Material UI en Inflatrack bajo un contrato de prácticas, donde aplico mis habilidades en un entorno empresarial dinámico. También estoy realizando prácticas en la empresa INNEVO, donde trabajo con tecnologías como Angular, Angular Material y SCSS.
 
 # Que tecnologias uso?
 El Bootcamp de Henry me permitio adquirir el conocimiento y experiencia en proyectos con diversas tecnologias como:
@@ -19,19 +16,13 @@ El Bootcamp de Henry me permitio adquirir el conocimiento y experiencia en proye
 - Next Js
 - Javascript
 - TypeScript
-- Node Js
-- Express
-- PostgreSQL
 - Tailwind
-- MongoDB
-##### Tambien incluyendo HTML y CSS
-entre otras herramientas, tambien tengo conocimiento en PHP y MySQL. Estos ultimos los adquiri realizando una diplomatura en la UTN de Resistencia Chaco.
-
-
-
+- Material UI
+- Shadcn UI
+- SCSS
 
 # 📫 Pueden contactarme por mis redes sociales:
-- Portfolio: https://developer-mortarini.vercel.app/
+- Portfolio: https://mortacode.vercel.app/
 - Linkedin: https://www.linkedin.com/in/leandro-mortarini/
 - Facebook: https://web.facebook.com/leandro.mortarini.5
 - Instagram: https://www.instagram.com/mortajunior/
