@@ -1,23 +1,23 @@
 ### Hola! 👋 Mi nombre es Leandro Mortarini
 
-#🚀 Sobre Mí
+# 🚀 Sobre Mí
 
 Soy desarrollador Frontend con experiencia en JavaScript, TypeScript, React y Angular, enfocado en crear aplicaciones web eficientes y visualmente atractivas. Mi trabajo se centra en implementar soluciones bien pensadas, mejorando la experiencia del usuario y optimizando procesos mediante buenas prácticas de desarrollo. ✨
 Me destaco por mi autonomía, atención al detalle y mi habilidad para colaborar en equipo, convencido de que los mejores resultados provienen del esfuerzo conjunto y la comunicación efectiva. 🤝
 
-#💻 ¿Qué Hago?
+# 💻 ¿Qué Hago?
 
 🎯 Actualmente, estoy desarrollando software de gestión comercial en Inflatrack, utilizando tecnologías como React, JavaScript, Styled Components y Material UI. Mi enfoque está en crear componentes reutilizables y optimizar el rendimiento de las aplicaciones en un entorno dinámico y colaborativo.
 
 🎯 En INNEVO, colaboro en el desarrollo de una plataforma para Servismart, donde trabajo con Angular, Angular Material y SCSS, desarrollando servicios compartidos que facilitan el manejo de datos y mejoran la eficiencia del equipo.
 
-#🔧 Tecnologías que Manejo
+# 🔧 Tecnologías que Manejo
 
 Lenguajes: JavaScript, TypeScript
 Frontend: React, Redux, Angular, Next.js
 Estilos: Tailwind CSS, Shadcn UI, Styled Components, SCSS, Material UI
 
-#🎯 ¿Por qué Elegirme?
+# 🎯 ¿Por qué Elegirme?
 
 📈 Implemento componentes reutilizables que optimizan tiempos de desarrollo.
 🤝 Promuevo una comunicación clara y colaborativa dentro de equipos multidisciplinarios.
