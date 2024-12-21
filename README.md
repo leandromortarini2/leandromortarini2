@@ -1,26 +1,27 @@
 ### Hola! 👋 Mi nombre es Leandro Mortarini
 
-#Portfolio
-https://mortacode.vercel.app/
+🚀 Sobre Mí
 
-# A que me dedico?
-🚀 Soy desarrollador Frontend trabajo principalmente con tecnologías como JavaScript, TypeScript, React y Angular, siempre buscando mejorar la experiencia del usuario con soluciones prácticas y bien pensadas. 
-Me destaco por mi autonomía y capacidad para adaptarme a diferentes proyectos, avanzando con eficacia mientras mantengo un enfoque en los detalles. Además, disfruto colaborar en equipo, porque creo que los mejores resultados vienen del esfuerzo conjunto y de cuidar cada aspecto del proceso de desarrollo. 💻✨
+Soy desarrollador Frontend con experiencia en JavaScript, TypeScript, React y Angular, enfocado en crear aplicaciones web eficientes y visualmente atractivas. Mi trabajo se centra en implementar soluciones bien pensadas, mejorando la experiencia del usuario y optimizando procesos mediante buenas prácticas de desarrollo. ✨
+Me destaco por mi autonomía, atención al detalle y mi habilidad para colaborar en equipo, convencido de que los mejores resultados provienen del esfuerzo conjunto y la comunicación efectiva. 🤝
 
-# Que hago?
-🎯 Actualmente, colaboro en el desarrollo de software de gestión de comercio con React, Javascript, Styled Components y Material UI en Inflatrack bajo un contrato de prácticas, donde aplico mis habilidades en un entorno empresarial dinámico. También estoy realizando prácticas en la empresa INNEVO, donde trabajo con tecnologías como Angular, Angular Material y SCSS.
+💻 ¿Qué Hago?
 
-# Que tecnologias uso?
+🎯 Actualmente, estoy desarrollando software de gestión comercial en Inflatrack, utilizando tecnologías como React, JavaScript, Styled Components y Material UI. Mi enfoque está en crear componentes reutilizables y optimizar el rendimiento de las aplicaciones en un entorno dinámico y colaborativo.
 
-- React
-- Angular
-- Next Js
-- Javascript
-- TypeScript
-- Tailwind
-- Material UI
-- Shadcn UI
-- SCSS
+🎯 En INNEVO, colaboro en el desarrollo de una plataforma para Servismart, donde trabajo con Angular, Angular Material y SCSS, desarrollando servicios compartidos que facilitan el manejo de datos y mejoran la eficiencia del equipo.
+
+🔧 Tecnologías que Manejo
+
+Lenguajes: JavaScript, TypeScript
+Frontend: React, Redux, Angular, Next.js
+Estilos: Tailwind CSS, Shadcn UI, Styled Components, SCSS, Material UI
+
+🎯 ¿Por qué Elegirme?
+
+📈 Implemento componentes reutilizables que optimizan tiempos de desarrollo.
+🤝 Promuevo una comunicación clara y colaborativa dentro de equipos multidisciplinarios.
+💡 Me adapto rápidamente a nuevos proyectos, entregando resultados de calidad en entornos ágiles.
 
 # 📫 Pueden contactarme por mis redes sociales:
 - Portfolio: https://mortacode.vercel.app/
