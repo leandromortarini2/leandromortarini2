@@ -9,8 +9,6 @@ Me destaco por mi autonomía, atención al detalle y mi habilidad para colaborar
 
 🎯 Actualmente, estoy desarrollando software de gestión comercial en Inflatrack, utilizando tecnologías como React, JavaScript, Styled Components y Material UI. Mi enfoque está en crear componentes reutilizables y optimizar el rendimiento de las aplicaciones en un entorno dinámico y colaborativo.
 
-🎯 En INNEVO, colaboro en el desarrollo de una plataforma para Servismart, donde trabajo con Angular, Angular Material y SCSS, desarrollando servicios compartidos que facilitan el manejo de datos y mejoran la eficiencia del equipo.
-
 # 🔧 Tecnologías que Manejo
 
 Lenguajes: JavaScript, TypeScript
